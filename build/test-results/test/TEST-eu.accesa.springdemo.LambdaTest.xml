@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eu.accesa.springdemo.LambdaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-07T08:31:19" hostname="ROV135NOB7060" time="0.008">
+  <properties/>
+  <testcase name="justRunMe" classname="eu.accesa.springdemo.LambdaTest" time="0.008"/>
+  <system-out><![CDATA[this is a test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,9 +1,17 @@
 package eu.accesa.springdemo;
 
 public class ProjectDto {
+
     private Long id;
     private String name;
-//    TODO getters, setters
+
+    public ProjectDto() {
+
+    }
+    public ProjectDto(Project entity) {
+        this.id = entity.getId();
+        this.name = entity.getName();
+    }
 
     public Long getId() {
         return id;
